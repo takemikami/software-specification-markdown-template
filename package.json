@@ -1,0 +1,16 @@
+{
+  "name": "software-specification-markdown-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:takemikami/software-specification-markdown-template.git",
+  "author": "Mikami, Takeshi <takeshi.mikami@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "build-pdf": "gitbook pdf"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

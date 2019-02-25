@@ -1,0 +1,2 @@
+software specification markdown template
+---
